@@ -260,7 +260,7 @@ export default function Home() {
             We are building a movement for a free and open internet. Join our Discord to chat with developers, get support, and contribute to the future of privacy.
           </p>
           <Button asChild size="lg" className="bg-[#5865F2] hover:bg-[#4752C4] text-white font-bold transition-transform hover:scale-105 active:scale-95 duration-300">
-            <Link href="https://discord.gg/rigby" target="_blank" className="flex items-center gap-2">
+            <Link href="https://discord.gg/jC8MuXzeHc" target="_blank" className="flex items-center gap-2">
               <FaDiscord className="w-5 h-5" />
               Join Discord
             </Link>
