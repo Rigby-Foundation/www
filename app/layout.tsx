@@ -20,7 +20,7 @@ export const metadata: Metadata = {
   title: "The Rigby Foundation",
   description: "Building open, secure, and decentralized tools for a private internet.",
   icons: {
-    icon: "/icon.png",
+    icon: "/logo.jpeg",
   }
 };
 
