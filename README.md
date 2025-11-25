@@ -1,36 +1,53 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# The Rigby Foundation
+
+![Rigby Foundation Banner](public/rigbysplash.png)
+
+Building open, secure, and decentralized tools for a private internet. We believe in code that protects users, not exploits them.
+
+## Overview
+
+This is the official website for The Rigby Foundation, built with modern web technologies to showcase our mission and projects.
+
+### Tech Stack
+
+- **Framework**: [Next.js 15](https://nextjs.org/) (App Router)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+- **UI Components**: [shadcn/ui](https://ui.shadcn.com/)
+- **Animations**: [GSAP](https://gsap.com/) (GreenSock Animation Platform)
+- **Smooth Scroll**: [Lenis](https://lenis.studiofreight.com/)
+- **Icons**: [React Icons](https://react-icons.github.io/react-icons/) (FontAwesome 6)
 
 ## Getting Started
 
-First, run the development server:
+To run this project locally:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+1.  **Clone the repository**:
+    ```bash
+    git clone https://github.com/Rigby-Foundation/www.git
+    cd www
+    ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2.  **Install dependencies**:
+    ```bash
+    npm install
+    # or
+    bun install
+    ```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+3.  **Run the development server**:
+    ```bash
+    npm run dev
+    # or
+    bun dev
+    ```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+4.  Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## Learn More
+## Projects
 
-To learn more about Next.js, take a look at the following resources:
+- **[NuggetVPN](https://nuggetvpn.com)**: A modern, blazing fast, and secure VPN client built with Rust and Tauri.
+- **[RigbyHost](https://rigby.host)**: The best GDPS hosting platform.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## License
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+This project is licensed under the **GNU General Public License v3.0**. See the [LICENSE](LICENSE) file for details.
