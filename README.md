@@ -45,7 +45,7 @@ To run this project locally:
 
 ## Projects
 
-- **[NuggetVPN](https://nuggetvpn.com)**: A modern, blazing fast, and secure VPN client built with Rust and Tauri.
+- **[NuggetVPN](https://nugget.rigby-foundation.org)**: A modern, blazing fast, and secure VPN client built with Rust and Tauri.
 - **[RigbyHost](https://rigby.host)**: The best GDPS hosting platform.
 
 ## License

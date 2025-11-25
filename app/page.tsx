@@ -207,7 +207,7 @@ export default function Home() {
             </CardContent>
             <CardFooter className="flex gap-3">
               <Button asChild className="bg-orange-600 hover:bg-orange-700 transition-transform hover:scale-105 active:scale-95 duration-300">
-                <Link href="https://nuggetvpn.com">Website</Link>
+                <Link href="https://nugget.rigby-foundation.org">Website</Link>
               </Button>
                <Button asChild variant="secondary" className="bg-zinc-800 hover:bg-zinc-700 text-zinc-100 transition-transform hover:scale-105 active:scale-95 duration-300">
                 <Link href="https://github.com/Rigby-Foundation/nuggetvpn">GitHub</Link>
