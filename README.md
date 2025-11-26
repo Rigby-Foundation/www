@@ -1,6 +1,6 @@
 # The Rigby Foundation
 
-![Rigby Foundation Banner](public/rigbysplash.png)
+![Rigby Foundation Banner](public/logo.jpeg)
 
 Building open, secure, and decentralized tools for a private internet. We believe in code that protects users, not exploits them.
 
